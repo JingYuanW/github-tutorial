@@ -5,9 +5,9 @@ _by Jing Yuan Wang_
 ---
 ## Git vs. GitHub
 
-Git is a program that allows you to store history about of what you did
+Git is a program that allows you to store history about of what you did.
 
-Github is a website that you can upload your work and update it, and working with other people
+Github is a website that you can upload your work and update it, and working with other people.
 
 ---
 ## Initial Setup
@@ -32,10 +32,11 @@ push somethig up, you need to commit first - git push
 ---
 ## Workflow & Commands
 
-git init
-git status
-git add
-git commit
-git push
-git pull
-git clone
+* git init
+* git status
+* git add
+* git commit
+* git push
+* git pull
+* git clone
+* every thing is right
